@@ -1,0 +1,53 @@
+# Sunrays
+![image](https://user-images.githubusercontent.com/88684972/185799208-11052685-e6bd-4219-ab8d-1a567e6a1dd7.png)
+
+## Solution
+```html
+<div class="container">
+  <div class="bar-container" style="--rotation:0"><div class="bar"></div></div>
+  <div class="bar-container" style="--rotation:1"><div class="bar"></div></div>
+  <div class="bar-container" style="--rotation:2"><div class="bar"></div></div>
+  <div class="bar-container" style="--rotation:3"><div class="bar"></div></div>
+  <div class="bar-container" style="--rotation:4"><div class="bar"></div></div>
+  <div class="bar-container" style="--rotation:5"><div class="bar"></div></div>
+  <div class="bar-container" style="--rotation:6"><div class="bar"></div></div>
+</div>
+
+<style>
+  body {
+    margin: 0;
+    background-color: #D25B70
+  }
+  
+  .container {
+    position: absolute;
+    top: 80px;
+    left: 80px;
+
+    width: 240px;
+    height: 240px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .bar-container {
+    position: absolute;
+    width: 240px;
+    height: 10px;
+
+    transform: rotateZ(calc(var(--rotation) * 30deg));
+  } 
+
+  .bar {
+    width: 100px;
+    height: 10px;
+
+    border-radius: 50px;
+    background-color: #F2E09F;
+  }
+  
+</style>
+```
+
