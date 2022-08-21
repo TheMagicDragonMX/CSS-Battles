@@ -1,0 +1,50 @@
+# Black Light
+![image](https://user-images.githubusercontent.com/88684972/185799536-4ae3f599-4ae3-4d3b-a905-88f263f6049d.png)
+
+## Solutions
+```html
+<div class="black"></div>
+
+<style>
+  body {
+    margin: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background: #5776F6;
+  }
+  
+  .black {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background: #191919;
+  }
+
+  .black::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 25px;
+
+    bottom: 50px;
+    background: #191919;
+
+    clip-path: polygon(0 100%, 100% 0, 100% 100%);
+  }
+
+  .black::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 25px;
+
+    top: 50px;
+    background: #191919;
+
+    clip-path: polygon(0 0%, 100% 0, 100% 100%);
+  }
+</style>
+```
