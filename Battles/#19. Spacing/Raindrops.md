@@ -1,0 +1,56 @@
+# Raindrops
+![image](https://user-images.githubusercontent.com/88684972/185799418-736f6ade-81c7-430b-ac2c-a428f7f69b86.png)
+
+
+## Solution
+```html
+<div class="container">
+  <div class="raindrop first" style="--rotation: 2"></div>
+  <div class="raindrop second" style="--rotation: 3"></div>
+  <div class="raindrop third" style="--rotation: 1"></div>
+</div>
+
+<style>
+  body {
+    margin: 0;
+    background: #F3AC3C;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container {
+    position: relative;
+    width: 240px;
+    height: 220px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .raindrop {
+    position: absolute;
+    
+    width: 80px;
+    aspect-ratio: 1;
+
+    background: #254241;
+    border-radius: 50% 50% 50% 0;
+    transform: rotateZ(calc(var(--rotation) * 90deg + 45deg));
+  }
+
+  .first {
+    left: 0
+  }
+  
+  .second {
+    top: 0
+  }
+  
+  .third {
+    bottom: 0
+  }
+</style>
+```
