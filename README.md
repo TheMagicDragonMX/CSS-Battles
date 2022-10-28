@@ -27,6 +27,11 @@ All the challenges I've beaten in CSS Battles
 [<img alt="Matrix" width="200px" src="https://user-images.githubusercontent.com/88684972/198737747-ab9f829c-8cac-49d6-8957-c92ca758bce8.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2318.%20Matrix.md)
 
 
+### Battle #3. Cursor
+[<img alt="Cube" width="200px" src="https://user-images.githubusercontent.com/88684972/198749926-c617b496-267e-483c-9a94-96a10352c778.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%233.%20Cursor/%2319.%20Cube.md)
+[<img alt="Ticket" width="200px" src="https://user-images.githubusercontent.com/88684972/198749963-8e0a6c80-c8c9-4bb7-b82f-2464d2b2d962.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%233.%20Cursor/%2320.%20Ticket.md)
+
+
 ### Battle #19. Spacing
 [<img alt="Curtain" width="200px" src="https://user-images.githubusercontent.com/88684972/185803234-c60ebe7d-6cc1-4e07-9ede-44bb685af179.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%2319.%20Spacing/%23109.%20Curtain.md)
 [<img alt="Sunrays" width="200px" src="https://user-images.githubusercontent.com/88684972/185799208-11052685-e6bd-4219-ab8d-1a567e6a1dd7.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%2319.%20Spacing/%23110.%20Sunrays.md)
