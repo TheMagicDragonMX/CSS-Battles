@@ -17,6 +17,16 @@ All the challenges I've beaten in CSS Battles
 [<img alt="Eye of Sauron" width="200px" src="https://user-images.githubusercontent.com/88684972/186258527-c5ad5e5d-3b75-48d3-a304-63002c71f545.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%231.%20Pilot%20Battle/%2311.%20Eye%20of%20Sauron.md)
 [<img alt="Wiggly Moustache" width="200px" src="https://user-images.githubusercontent.com/88684972/186258628-0a8750cb-9cd5-4a09-ab6e-ebd2db8a4119.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%231.%20Pilot%20Battle/%2312.%20Wiggly%20Moustache.md)
 
+
+### Battle #2. Visibility
+[<img alt="Totally Triangle" width="200px" src="https://user-images.githubusercontent.com/88684972/198737115-29bda957-dfb7-47eb-99af-e4933dafcadf.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2313.%20Totally%20Triangle.md)
+[<img alt="Web Maker Logo" width="200px" src="https://user-images.githubusercontent.com/88684972/198738556-cbe1cf20-3e5e-46b3-ad7c-9ded38ba6cea.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2314.%20Web%20Maker%20Logo.md)
+[<img alt="Overlap" width="200px" src="https://user-images.githubusercontent.com/88684972/198738644-060704e7-2252-4b22-8482-d40cecd8c832.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2315.%20Overlap%2C.md)
+[<img alt="Eye of the Tiger" width="200px" src="https://user-images.githubusercontent.com/88684972/198737551-840eacf6-b129-4239-9206-2319f49bf277.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2316.%20Eye%20of%20the%20Tiger.md)
+[<img alt="Fidget Spinner" width="200px" src="https://user-images.githubusercontent.com/88684972/198737674-fc1cec01-4880-4723-8b3b-c2d293d78810.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2317.%20Fidget%20Spinner.md)
+[<img alt="Matrix" width="200px" src="https://user-images.githubusercontent.com/88684972/198737747-ab9f829c-8cac-49d6-8957-c92ca758bce8.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%232.%20Visibility/%2318.%20Matrix.md)
+
+
 ### Battle #19. Spacing
 [<img alt="Curtain" width="200px" src="https://user-images.githubusercontent.com/88684972/185803234-c60ebe7d-6cc1-4e07-9ede-44bb685af179.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%2319.%20Spacing/%23109.%20Curtain.md)
 [<img alt="Sunrays" width="200px" src="https://user-images.githubusercontent.com/88684972/185799208-11052685-e6bd-4219-ab8d-1a567e6a1dd7.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%2319.%20Spacing/%23110.%20Sunrays.md)
