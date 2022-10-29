@@ -33,19 +33,24 @@ All the challenges I've beaten in CSS Battles
 
 
 ### Battle #4. Display
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842230-9f0997c0-90e5-465c-b7f9-02293c7494d4.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2321.%20SitePoint%20Logo.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842265-50ab1339-25fb-4245-94c3-381b5bb11a38.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2322.%20Cloud.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842303-1030b908-0487-4aec-8b24-79a8d6250198.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2323.%20Boxception.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842352-2c4ebe70-b04a-4bf6-8eb4-03bce9ce3083.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2324.%20Switches.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842392-bbff850d-149f-4066-85ac-ed9a713ea32e.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2325.%20Blossom.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842424-2a0f56f7-24fa-4b08-a218-9805f3c5110c.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2326.%20Smiley.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842445-b0b2ac67-fa66-4647-807f-148c8fe2c04b.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2327.%20Lock%20Up.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198842493-a124288f-0538-4aa4-bd0d-949d5d20c09c.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2328.%20Cups%20%26%20Balls.md)
+[<img alt="SitePoint Logo" width="200px" src="https://user-images.githubusercontent.com/88684972/198842230-9f0997c0-90e5-465c-b7f9-02293c7494d4.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2321.%20SitePoint%20Logo.md)
+[<img alt="Cloud" width="200px" src="https://user-images.githubusercontent.com/88684972/198842265-50ab1339-25fb-4245-94c3-381b5bb11a38.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2322.%20Cloud.md)
+[<img alt="Boxception" width="200px" src="https://user-images.githubusercontent.com/88684972/198842303-1030b908-0487-4aec-8b24-79a8d6250198.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2323.%20Boxception.md)
+[<img alt="Switches" width="200px" src="https://user-images.githubusercontent.com/88684972/198842352-2c4ebe70-b04a-4bf6-8eb4-03bce9ce3083.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2324.%20Switches.md)
+[<img alt="Blossom" width="200px" src="https://user-images.githubusercontent.com/88684972/198842392-bbff850d-149f-4066-85ac-ed9a713ea32e.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2325.%20Blossom.md)
+[<img alt="Smiley" width="200px" src="https://user-images.githubusercontent.com/88684972/198842424-2a0f56f7-24fa-4b08-a218-9805f3c5110c.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2326.%20Smiley.md)
+[<img alt="Lock Up" width="200px" src="https://user-images.githubusercontent.com/88684972/198842445-b0b2ac67-fa66-4647-807f-148c8fe2c04b.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2327.%20Lock%20Up.md)
+[<img alt="Cups & Balls" width="200px" src="https://user-images.githubusercontent.com/88684972/198842493-a124288f-0538-4aa4-bd0d-949d5d20c09c.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%234.%20Display/%2328.%20Cups%20%26%20Balls.md)
 
 
 ### Battle #5. Inline
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198855218-1785bfd3-3150-4a23-92cb-15ada9c014c0.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%235.%20Inline/%2329.%20Suffocate.md)
-[<img alt="" width="200px" src="https://user-images.githubusercontent.com/88684972/198855231-574bb262-b15e-4fa4-81ea-8b3151daeed7.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%235.%20Inline/%2330.%20Horizon.md)
+[<img alt="Suffocate" width="200px" src="https://user-images.githubusercontent.com/88684972/198855218-1785bfd3-3150-4a23-92cb-15ada9c014c0.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%235.%20Inline/%2329.%20Suffocate.md)
+[<img alt="Horizon" width="200px" src="https://user-images.githubusercontent.com/88684972/198855231-574bb262-b15e-4fa4-81ea-8b3151daeed7.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%235.%20Inline/%2330.%20Horizon.md)
+
+
+### Battle #6. Conic
+[<img alt="Equals" width="200px" src="https://user-images.githubusercontent.com/88684972/198855529-c1ecf95c-19d1-41f7-9edd-35018249139b.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%236.%20Conic/%2331.%20Equals.md)
+[<img alt="Band-aid" width="200px" src="https://user-images.githubusercontent.com/88684972/198855546-f0fb5196-8576-49f5-9156-a2c828783979.png" />](https://github.com/TheMagicDragonMX/CSS-Battles/blob/main/Battles/%236.%20Conic/%2332.%20Band-aid.md)
 
 
 ### Battle #19. Spacing
